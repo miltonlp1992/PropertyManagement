@@ -65,6 +65,7 @@ PropertyManagement (Solución)
     └── PropertyManagement.Tests
         ├── Integration
         └── Unit
+```
 
 # 🛠️ Stack Tecnológico Completo
 
