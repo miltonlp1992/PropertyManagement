@@ -32,6 +32,7 @@ API desarrollada con **.NET 8**, siguiendo principios de arquitectura limpia, se
 - Integration tests con WebApplicationFactory  
 
 ## 🏛️ Estructura del Sistema
+```
 PropertyManagement (Solución)
 │
 ├── src
